@@ -28,63 +28,55 @@ span.CharOverride-2 {
 }
 span.CharOverride-3 {
 	color:#000000;
-	font-family:"TradeGothic CondEighteen", sans-serif;
-	font-size:451.1px;
-	font-style:normal;
-	font-weight:normal;
-	text-transform:uppercase;
-}
-span.CharOverride-4 {
-	color:#000000;
 	font-family:"Avenir Next Condensed Demi Bold", sans-serif;
 	font-size:480px;
 	font-style:normal;
 	font-weight:600;
 	text-transform:uppercase;
 }
-span.CharOverride-5 {
+span.CharOverride-4 {
 	color:#333333;
 	font-family:"Wingdings 3", sans-serif;
 	font-size:560px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-6 {
+span.CharOverride-5 {
 	color:#333333;
 	font-family:"Avenir Next", sans-serif;
 	font-size:560px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-7 {
+span.CharOverride-6 {
 	color:#000000;
 	font-family:"7th Service", sans-serif;
 	font-size:2972.9px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-8 {
+span.CharOverride-7 {
 	color:#000000;
 	font-family:"Century Old Style Std", serif;
 	font-size:560px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-9 {
+span.CharOverride-8 {
 	color:#333333;
 	font-family:"Wingdings 3", sans-serif;
 	font-size:369.7px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-10 {
+span.CharOverride-9 {
 	color:#333333;
 	font-family:"Avenir Next", sans-serif;
 	font-size:369.7px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-11 {
+span.CharOverride-10 {
 	color:#000000;
 	font-family:"7th Service", sans-serif;
 	font-size:862.7px;
@@ -92,42 +84,42 @@ span.CharOverride-11 {
 	font-weight:normal;
 	text-transform:uppercase;
 }
-span.CharOverride-12 {
+span.CharOverride-11 {
 	color:#000000;
 	font-family:"Century Old Style Std", serif;
 	font-size:369.7px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-13 {
+span.CharOverride-12 {
 	color:#000000;
 	font-family:"Century Old Style Std", serif;
 	font-size:366.3px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-14 {
+span.CharOverride-13 {
 	color:#333333;
 	font-family:"Wingdings 3", sans-serif;
 	font-size:366.3px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-15 {
+span.CharOverride-14 {
 	color:#333333;
 	font-family:"Avenir Next", sans-serif;
 	font-size:366.3px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-16 {
+span.CharOverride-15 {
 	color:#666666;
 	font-family:"Avenir Next Demi Bold", sans-serif;
 	font-size:366.3px;
 	font-style:normal;
 	font-weight:600;
 }
-span.CharOverride-17 {
+span.CharOverride-16 {
 	color:#000000;
 	font-family:"7th Service", sans-serif;
 	font-size:760.4px;
@@ -135,16 +127,23 @@ span.CharOverride-17 {
 	font-weight:normal;
 	text-transform:uppercase;
 }
-span.CharOverride-18 {
+span.CharOverride-17 {
 	color:#000000;
 	font-family:"Avenir Next Demi Bold", sans-serif;
 	font-size:422.4px;
 	font-style:normal;
 	font-weight:600;
 }
-span.CharOverride-19 {
+span.CharOverride-18 {
 	color:#333333;
 	font-family:"Wingdings 3", sans-serif;
+	font-size:380.2px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-19 {
+	color:#333333;
+	font-family:"Avenir Next", sans-serif;
 	font-size:380.2px;
 	font-style:normal;
 	font-weight:normal;
@@ -153,17 +152,10 @@ span.CharOverride-20 {
 	color:#333333;
 	font-family:"Avenir Next", sans-serif;
 	font-size:380.2px;
-	font-style:normal;
-	font-weight:normal;
-}
-span.CharOverride-21 {
-	color:#333333;
-	font-family:"Avenir Next", sans-serif;
-	font-size:380.2px;
 	font-style:italic;
 	font-weight:normal;
 }
-span.CharOverride-22 {
+span.CharOverride-21 {
 	color:#000000;
 	font-family:"Avenir Next Demi Bold", sans-serif;
 	font-size:380.2px;
@@ -171,28 +163,28 @@ span.CharOverride-22 {
 	font-weight:600;
 	text-transform:uppercase;
 }
-span.CharOverride-23 {
+span.CharOverride-22 {
 	color:#000000;
 	font-family:"Century Old Style Std", serif;
 	font-size:359.1px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-24 {
+span.CharOverride-23 {
 	color:#000000;
 	font-family:"Century Old Style Std", serif;
 	font-size:359.1px;
 	font-style:italic;
 	font-weight:normal;
 }
-span.CharOverride-25 {
+span.CharOverride-24 {
 	color:#1e1d1c;
 	font-family:"Century Old Style Std", serif;
 	font-size:359.1px;
 	font-style:italic;
 	font-weight:normal;
 }
-span.CharOverride-26 {
+span.CharOverride-25 {
 	color:#1e1d1c;
 	font-family:"Century Old Style Std", serif;
 	font-size:359.1px;
