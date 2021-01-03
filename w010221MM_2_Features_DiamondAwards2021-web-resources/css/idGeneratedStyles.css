@@ -1,0 +1,292 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+	text-rendering:optimizeSpeed;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.ParaOverride-1 {
+	line-height:1;
+	white-space:nowrap;
+}
+span.CharOverride-1 {
+	color:#ffffff;
+	font-family:"Bodoni 72 Oldstyle", serif;
+	font-size:2820.2px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-2 {
+	color:#ffffff;
+	font-family:"Bodoni 72 Oldstyle", serif;
+	font-size:2618.8px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-3 {
+	color:#ffffff;
+	font-family:"Avenir Next Heavy", sans-serif;
+	font-size:738.6px;
+	font-style:normal;
+	font-weight:900;
+	text-transform:uppercase;
+}
+span.CharOverride-4 {
+	color:#ffffff;
+	font-family:"Bodoni 72 Oldstyle", serif;
+	font-size:738.6px;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.CharOverride-5 {
+	-webkit-text-stroke-color:#000000;
+	-webkit-text-stroke-width:3.4px;
+	color:#ffffff;
+	font-family:"Bodoni 72 Oldstyle", serif;
+	font-size:738.6px;
+	font-style:normal;
+	font-weight:normal;
+	text-stroke-color:#000000;
+	text-stroke-width:3.4px;
+	text-transform:uppercase;
+}
+span.CharOverride-6 {
+	color:#424343;
+	font-family:"ITC Avant Garde Gothic BT Medium", sans-serif;
+	font-size:402.9px;
+	font-style:normal;
+	font-weight:500;
+	text-transform:uppercase;
+}
+span.CharOverride-7 {
+	color:#636464;
+	font-family:"ITC Avant Garde Gothic BT Book", sans-serif;
+	font-size:402.9px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-8 {
+	color:#424343;
+	font-family:"ACaslon Regular", serif;
+	font-size:503.6px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	color:#424343;
+	font-family:"ACaslon Regular", serif;
+	font-size:503.6px;
+	font-style:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-10 {
+	color:#000000;
+	font-family:"ITC Avant Garde Gothic BT Demi", sans-serif;
+	font-size:537.2px;
+	font-style:normal;
+	font-weight:600;
+}
+span.CharOverride-11 {
+	color:#000000;
+	font-family:"Avenir Next Heavy", sans-serif;
+	font-size:832.4px;
+	font-style:normal;
+	font-weight:900;
+}
+span.CharOverride-12 {
+	color:#000000;
+	font-family:"Avenir Next Heavy", sans-serif;
+	font-size:572.3px;
+	font-style:normal;
+	font-weight:900;
+	text-transform:uppercase;
+}
+span.CharOverride-13 {
+	color:#000000;
+	font-family:"Bodoni 72 Oldstyle", serif;
+	font-size:624.3px;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.CharOverride-14 {
+	color:#000000;
+	font-family:"Avenir Next Medium", sans-serif;
+	font-size:554.9px;
+	font-style:normal;
+	font-weight:500;
+}
+span.CharOverride-15 {
+	color:#000000;
+	font-family:"Bodoni 72 Oldstyle", serif;
+	font-size:589.6px;
+	font-style:normal;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+span.CharOverride-16 {
+	color:#000000;
+	font-family:"Avenir Next", sans-serif;
+	font-size:589.6px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-17 {
+	color:#000000;
+	font-family:"Avenir Next Heavy", sans-serif;
+	font-size:876.7px;
+	font-style:normal;
+	font-weight:900;
+}
+span.CharOverride-18 {
+	color:#000000;
+	font-family:"Avenir Next Heavy", sans-serif;
+	font-size:876.7px;
+	font-style:normal;
+	font-weight:900;
+	text-transform:uppercase;
+}
+#_idContainer000 {
+	-ms-transform:translate(607.620px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(607.620px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9815.73px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(607.620px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(607.620px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:855.77px;
+}
+#_idContainer001 {
+	-ms-transform:translate(1595.793px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(1595.793px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:9815.73px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(1595.793px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1595.793px,2757.941px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:855.77px;
+}
+#_idContainer002 {
+	-ms-transform:translate(-0.001px,49.496px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(-0.001px,49.496px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:2688.70px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(-0.001px,49.496px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(-0.001px,49.496px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:2500.00px;
+}
+#_idContainer003 {
+	-ms-transform:translate(607.620px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(607.620px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:2721.94px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(607.620px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(607.620px,36.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:953.65px;
+}
+#_idContainer004 {
+	-ms-transform:translate(604.263px,258.396px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(604.263px,258.396px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:2376.00px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(604.263px,258.396px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(604.263px,258.396px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:953.65px;
+}
+#_idContainer005 {
+	-ms-transform:translate(1272.570px,2618.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(1272.570px,2618.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:68.81px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(1272.570px,2618.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1272.570px,2618.897px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:697.31px;
+}
+#_idContainer006 {
+	-ms-transform:translate(607.620px,2919.961px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(607.620px,2919.961px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/6.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:9435.25px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(607.620px,2919.961px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(607.620px,2919.961px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:1882.70px;
+}
+#_idContainer007 {
+	-ms-transform:translate(389.058px,2903.242px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(389.058px,2903.242px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:3246.20px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(389.058px,2903.242px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(389.058px,2903.242px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:197.25px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+img._idGenObjectAttribute-2 {
+	left:0px;
+	position:absolute;
+	top:0px;
+}
+div._idGenObjectStyle-Disabled {
+	background-color:transparent;
+	border-width:0px;
+}
