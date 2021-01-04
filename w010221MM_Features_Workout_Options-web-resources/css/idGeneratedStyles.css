@@ -156,6 +156,20 @@ span.CharOverride-20 {
 	font-style:normal;
 	font-weight:normal;
 }
+span.CharOverride-21 {
+	color:#373627;
+	font-family:"Avenir Next Demi Bold", sans-serif;
+	font-size:560px;
+	font-style:normal;
+	font-weight:600;
+}
+span.CharOverride-22 {
+	color:#373627;
+	font-family:"Avenir Next", sans-serif;
+	font-size:560px;
+	font-style:normal;
+	font-weight:normal;
+}
 #_idContainer000 {
 	-ms-transform:translate(3.865px,1555.237px) rotate(270.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;

@@ -12,47 +12,27 @@ p.ParaOverride-1 {
 	white-space:nowrap;
 }
 span.CharOverride-1 {
-	-webkit-text-stroke-color:#5b7d9c;
-	-webkit-text-stroke-width:10.2px;
-	color:#5b7d9c;
-	font-family:"Avenir Next Ultra Light", sans-serif;
-	font-size:898.7px;
-	font-style:normal;
-	font-weight:200;
-	text-stroke-color:#5b7d9c;
-	text-stroke-width:10.2px;
-	text-transform:uppercase;
-}
-span.CharOverride-2 {
-	color:#5b7d9c;
-	font-family:"Avenir Next Heavy", sans-serif;
-	font-size:898.7px;
-	font-style:normal;
-	font-weight:900;
-	text-transform:uppercase;
-}
-span.CharOverride-3 {
 	color:#6e97be;
 	font-family:"Avenir Next Heavy", sans-serif;
 	font-size:3562.2px;
 	font-style:normal;
 	font-weight:900;
 }
-span.CharOverride-4 {
+span.CharOverride-2 {
 	color:#000000;
 	font-family:"Century Old Style Std", serif;
 	font-size:905.6px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-5 {
+span.CharOverride-3 {
 	color:#ffffff;
 	font-family:"Bodoni 72 Oldstyle", serif;
 	font-size:2368.5px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-6 {
+span.CharOverride-4 {
 	color:#ffffff;
 	font-family:"Avenir Next Heavy", sans-serif;
 	font-size:1393.2px;
@@ -60,7 +40,7 @@ span.CharOverride-6 {
 	font-weight:900;
 	text-transform:uppercase;
 }
-span.CharOverride-7 {
+span.CharOverride-5 {
 	color:#ffffff;
 	font-family:"Avenir Next Heavy", sans-serif;
 	font-size:1393.2px;
@@ -68,7 +48,7 @@ span.CharOverride-7 {
 	font-weight:900;
 	text-transform:uppercase;
 }
-span.CharOverride-8 {
+span.CharOverride-6 {
 	color:#ffffff;
 	font-family:"Avenir Next Heavy", sans-serif;
 	font-size:2995.5px;
@@ -76,7 +56,7 @@ span.CharOverride-8 {
 	font-weight:900;
 	text-transform:uppercase;
 }
-span.CharOverride-9 {
+span.CharOverride-7 {
 	-webkit-text-stroke-color:#5b7d9c;
 	-webkit-text-stroke-width:8.7px;
 	color:#ffffff;
@@ -87,7 +67,7 @@ span.CharOverride-9 {
 	text-stroke-color:#5b7d9c;
 	text-stroke-width:8.7px;
 }
-span.CharOverride-10 {
+span.CharOverride-8 {
 	-webkit-text-stroke-color:#5b7d9c;
 	-webkit-text-stroke-width:8.7px;
 	color:#ffffff;
@@ -98,29 +78,29 @@ span.CharOverride-10 {
 	text-stroke-color:#5b7d9c;
 	text-stroke-width:8.7px;
 }
-span.CharOverride-11 {
+span.CharOverride-9 {
 	color:#ffffff;
-	font-family:"TradeGothic CondEighteen", sans-serif;
+	font-family:"Avenir Next Condensed Demi Bold", sans-serif;
 	font-size:627px;
 	font-style:normal;
-	font-weight:normal;
+	font-weight:600;
 	text-transform:uppercase;
 }
-span.CharOverride-12 {
+span.CharOverride-10 {
 	color:#228bbc;
 	font-family:"Avenir Next Demi Bold", sans-serif;
 	font-size:760px;
 	font-style:normal;
 	font-weight:600;
 }
-span.CharOverride-13 {
+span.CharOverride-11 {
 	color:#000000;
 	font-family:"Century Old Style Std", serif;
 	font-size:680px;
 	font-style:normal;
 	font-weight:normal;
 }
-span.CharOverride-14 {
+span.CharOverride-12 {
 	color:#5b7d9c;
 	font-family:"Avenir Next Demi Bold", sans-serif;
 	font-size:760px;
@@ -128,21 +108,6 @@ span.CharOverride-14 {
 	font-weight:600;
 }
 #_idContainer000 {
-	-ms-transform:translate(179.738px,68.330px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	-ms-transform-origin:0% 0%;
-	-webkit-transform:translate(179.738px,68.330px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	-webkit-transform-origin:0% 0%;
-	height:110.46px;
-	left:0px;
-	position:absolute;
-	top:0px;
-	transform:translate(179.738px,68.330px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	transform:translate(179.738px,68.330px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	transform-origin:0% 0%;
-	transform-origin:0% 0%;
-	width:1423.53px;
-}
-#_idContainer001 {
 	-ms-transform:translate(-0.001px,210.065px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(-0.001px,210.065px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -157,7 +122,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:2500.00px;
 }
-#_idContainer002 {
+#_idContainer001 {
 	-ms-transform:translate(976.068px,3048.186px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(976.068px,3048.186px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -172,7 +137,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:1487.93px;
 }
-#_idContainer003 {
+#_idContainer002 {
 	-ms-transform:translate(963.999px,2492.998px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(963.999px,2492.998px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -187,7 +152,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:1429.47px;
 }
-#_idContainer004 {
+#_idContainer003 {
 	-ms-transform:translate(6.289px,1.859px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(6.289px,1.859px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -202,7 +167,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:3.00px;
 }
-#_idContainer005 {
+#_idContainer004 {
 	-ms-transform:translate(-0.001px,2.524px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(-0.001px,2.524px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -217,7 +182,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:2.40px;
 }
-#_idContainer006 {
+#_idContainer005 {
 	-ms-transform:translate(2.128px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(2.128px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -232,7 +197,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:4.54px;
 }
-#_idContainer007 {
+#_idContainer006 {
 	-ms-transform:translate(1.634px,1.776px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(1.634px,1.776px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -247,7 +212,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:4.71px;
 }
-#_idContainer008 {
+#_idContainer007 {
 	-ms-transform:translate(37405.052px,62376.258px) rotate(0.000deg) skew(0.000deg) scale(20.000,20.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(37405.052px,62376.258px) rotate(0.000deg) skew(0.000deg) scale(20.000,20.000);
@@ -262,12 +227,12 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:9.29px;
 }
-#_idContainer009 {
+#_idContainer008 {
 	-ms-transform:translate(63.999px,5114.315px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(63.999px,5114.315px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
-	background-image:url(../image/8.png);
+	background-image:url(../image/7.png);
 	background-repeat:no-repeat;
 	background-size:cover;
 	height:4542.68px;
@@ -280,7 +245,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:2418.00px;
 }
-#_idContainer010 {
+#_idContainer009 {
 	-ms-transform:translate(642.319px,4749.999px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(642.319px,4749.999px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -295,7 +260,7 @@ span.CharOverride-14 {
 	transform-origin:0% 0%;
 	width:1097.53px;
 }
-#_idContainer011 {
+#_idContainer010 {
 	-ms-transform:translate(565.000px,4837.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-ms-transform-origin:0% 0%;
 	-webkit-transform:translate(565.000px,4837.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
